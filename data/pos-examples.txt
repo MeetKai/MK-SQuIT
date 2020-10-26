@@ -1,0 +1,202 @@
+Key: [NOUN] | Len: 665
+	film crew member
+	family name
+	starttime
+	lineal descendant
+	rating
+	entry
+	earnings
+	man
+	epithet
+	name
+
+Key: [VERB-ADP] | Len: 83
+	extended from
+	adapted from
+	formed out of
+	playing in
+	assembled from
+	composed of
+	produced by
+	refers to
+	published in
+	derived from
+
+Key: [NOUN-ADP] | Len: 62
+	music by
+	amalgamation of
+	uninstantiable instance of
+	distinct individual member of
+	unique individual of
+	resident in
+	teleplay by
+	alumnus of
+	member of
+	set of
+
+Key: [NOUN-VERB] | Len: 48
+	college attended
+	date formed
+	award won
+	year written
+	language read
+	year founded
+	universe described
+	unit cost
+	position occupied
+	studio where filmed
+
+Key: [VERB-NOUN] | Len: 46
+	established on date
+	wrote language
+	start date
+	formed on date
+	inspiring artist
+	focused on by Wikimedia project
+	described at webpage
+	takes place in fictional universe
+	described at URL
+	speaks language
+
+Key: [AUX-NOUN] | Len: 30
+	has quality
+	has kids
+	has component
+	is an individual
+	is a specific
+	has father
+	has child
+	has children
+	has property
+	has adaptation
+
+Key: [VERB] | Len: 17
+	created
+	established
+	written
+	completed
+	released
+	written or signed
+	published
+	introduced
+	divorced
+	dissolved
+
+Key: [AUX-ADP] | Len: 10
+	is the basis for
+	be researcher in
+	is child of
+	is sibling of
+	is the sibling of
+	is son of
+	is daughter of
+	is an example of
+	is about
+	is part of
+
+Key: [ADJ-ADP] | Len: 7
+	duplicate of
+	married to
+	responsible for
+	identical to
+	available in
+	themed after
+	active in
+
+Key: [ADJ] | Len: 7
+	in
+	aka
+	about
+	relative
+	unsubtypable particular
+	inaugurated
+	launched
+
+Key: [ADP] | Len: 7
+	until
+	by
+	from
+	after a work by
+	in regards to
+	to
+	within
+
+Key: [ADJ-NOUN] | Len: 4
+	co-brother-in-law
+	username on Reddit
+	duplicate of item
+	co-sibling-in-law
+
+Key: [VERB-SCONJ] | Len: 3
+	born as
+	based upon
+	known as
+
+Key: [AUX-ADJ] | Len: 3
+	has characteristic
+	is a particular
+	is a unique
+
+Key: [ADP-NOUN] | Len: 3
+	from time
+	from date
+	on focus list of Wikimedia project
+
+Key: [AUX-VERB] | Len: 3
+	has pet
+	has sibling
+	has ingredient
+
+Key: [AUX] | Len: 2
+	is a
+	is an
+
+Key: [SCONJ] | Len: 2
+	till
+	since
+
+Key: [ADV-ADP] | Len: 2
+	mainly about
+	subassembly of
+
+Key: [ADV-VERB] | Len: 2
+	first released
+	first published
+
+Key: [ADJ-SCONJ] | Len: 2
+	the same as
+	same as
+
+Key: [ADV-NOUN] | Len: 1
+	kind of music
+
+Key: [NOUN-ADJ] | Len: 1
+	IG username
+
+Key: [X] | Len: 1
+	dop
+
+Key: [ADV] | Len: 1
+	still
+
+Key: [NOUN-NUM] | Len: 1
+	ISO 27729
+
+Key: [PRON-VERB] | Len: 1
+	wed
+
+Key: [VERB-PART] | Len: 1
+	wedded to
+
+Key: [NOUN-SCONJ] | Len: 1
+	same concept as
+
+Key: [CCONJ-VERB] | Len: 1
+	or signed
+
+Key: [ADV-SCONJ] | Len: 1
+	also known as
+
+Key: [] | Len: 1
+	ISBN-13
+

@@ -1,0 +1,25 @@
+.ipynb_checkpoints/
+benchmark/models/
+.DS_Store
+.idea/
+venv/
+
+# python
+
+*.pyc
+*.pyo
+__pycache__
+
+runs/
+outputs/
+.vscode
+
+out/NeMo_logs
+out/tf-projector
+out/workspaces
+cache/
+model/conf
+model/data
+model/evaluate_text2sparql.py
+model/text2sparql.py
+*.ipynb

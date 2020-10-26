@@ -1,0 +1,704 @@
+[
+    {
+        "prop": "http://www.wikidata.org/entity/P840",
+        "type": "literary_work->location",
+        "labels": [
+            "location of narrative",
+            "narrative location",
+            "narrative set in",
+            "playing in",
+            "set in location",
+            "setting location",
+            "takes place in"
+        ],
+        "pos": {
+            "NOUN": [
+                "location of narrative",
+                "narrative location"
+            ],
+            "NOUN-ADP": [
+                "narrative set in"
+            ],
+            "VERB-ADP": [
+                "playing in",
+                "takes place in"
+            ],
+            "VERB-NOUN": [
+                "set in location",
+                "setting location"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P921",
+        "type": "literary_work->text",
+        "labels": [
+            "about",
+            "artistic theme",
+            "describes",
+            "in regards to",
+            "index term",
+            "is about",
+            "keyword",
+            "main issue",
+            "main subject",
+            "main thing",
+            "main topic",
+            "mainly about",
+            "mentions",
+            "primary subject",
+            "primary topic",
+            "refers to",
+            "regarding",
+            "regards",
+            "sitter",
+            "subject",
+            "subject heading",
+            "theme",
+            "topic",
+            "topic of work"
+        ],
+        "pos": {
+            "ADJ": [
+                "about"
+            ],
+            "NOUN": [
+                "artistic theme",
+                "describes",
+                "index term",
+                "keyword",
+                "main issue",
+                "main subject",
+                "main thing",
+                "main topic",
+                "mentions",
+                "primary subject",
+                "primary topic",
+                "regarding",
+                "regards",
+                "sitter",
+                "subject",
+                "subject heading",
+                "theme",
+                "topic",
+                "topic of work"
+            ],
+            "ADP": [
+                "in regards to"
+            ],
+            "AUX-ADP": [
+                "is about"
+            ],
+            "ADV-ADP": [
+                "mainly about"
+            ],
+            "VERB-ADP": [
+                "refers to"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P571",
+        "type": "literary_work->date",
+        "labels": [
+            "built",
+            "commenced on date",
+            "commencement date",
+            "completed",
+            "constructed",
+            "construction date",
+            "created",
+            "created on date",
+            "creation date",
+            "date commenced",
+            "date constructed",
+            "date created",
+            "date formed",
+            "date founded",
+            "date incorporated",
+            "date of commencement",
+            "date of creation",
+            "date of establishment",
+            "date of foundation",
+            "date of foundation or creation",
+            "date of founding",
+            "date of incorporation",
+            "dedication date",
+            "established",
+            "established on date",
+            "establishment date",
+            "first issue",
+            "formation",
+            "formation date",
+            "formed at",
+            "formed in",
+            "formed on date",
+            "foundation",
+            "foundation date",
+            "foundation\u202f/\u2009creation date",
+            "founded",
+            "founded on date",
+            "founding date",
+            "inaugurated",
+            "inception",
+            "incorporated",
+            "incorporated on date",
+            "incorporation date",
+            "inititated",
+            "introduced",
+            "introduction",
+            "launch date",
+            "launched",
+            "time of foundation or creation",
+            "time of inception",
+            "written on date",
+            "year commenced",
+            "year created",
+            "year established",
+            "year founded",
+            "year incorporated",
+            "year written"
+        ],
+        "pos": {
+            "VERB": [
+                "built",
+                "completed",
+                "constructed",
+                "created",
+                "established",
+                "founded",
+                "inititated",
+                "introduced"
+            ],
+            "VERB-NOUN": [
+                "commenced on date",
+                "created on date",
+                "established on date",
+                "formed on date",
+                "founded on date",
+                "incorporated on date",
+                "written on date"
+            ],
+            "NOUN": [
+                "commencement date",
+                "construction date",
+                "creation date",
+                "date of commencement",
+                "date of creation",
+                "date of establishment",
+                "date of foundation",
+                "date of foundation or creation",
+                "date of founding",
+                "date of incorporation",
+                "dedication date",
+                "establishment date",
+                "first issue",
+                "formation",
+                "formation date",
+                "foundation",
+                "foundation date",
+                "foundation\u202f/\u2009creation date",
+                "founding date",
+                "inception",
+                "incorporated",
+                "incorporation date",
+                "introduction",
+                "launch date",
+                "time of foundation or creation",
+                "time of inception"
+            ],
+            "NOUN-VERB": [
+                "date commenced",
+                "date constructed",
+                "date created",
+                "date formed",
+                "date founded",
+                "date incorporated",
+                "year commenced",
+                "year created",
+                "year established",
+                "year founded",
+                "year incorporated",
+                "year written"
+            ],
+            "VERB-ADP": [
+                "formed at",
+                "formed in"
+            ],
+            "ADJ": [
+                "inaugurated",
+                "launched"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P495",
+        "type": "literary_work->country",
+        "labels": [
+            "CoO",
+            "comes from",
+            "country of origin",
+            "origin",
+            "originates from",
+            "place of origin"
+        ],
+        "pos": {
+            "NOUN": [
+                "CoO",
+                "country of origin",
+                "origin",
+                "place of origin"
+            ],
+            "VERB-ADP": [
+                "comes from",
+                "originates from"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P577",
+        "type": "literary_work->date",
+        "labels": [
+            "air date",
+            "airdate",
+            "date of first publication",
+            "date of publication",
+            "date of release",
+            "date published",
+            "date released",
+            "dop",
+            "first publication",
+            "first published",
+            "first released",
+            "initial release",
+            "launch date",
+            "launched",
+            "pubdate",
+            "publication",
+            "publication date",
+            "publication time",
+            "published",
+            "release date",
+            "released",
+            "released in",
+            "time of publication",
+            "year of publication"
+        ],
+        "pos": {
+            "NOUN": [
+                "air date",
+                "airdate",
+                "date of first publication",
+                "date of publication",
+                "date of release",
+                "first publication",
+                "initial release",
+                "launch date",
+                "pubdate",
+                "publication",
+                "publication date",
+                "publication time",
+                "release date",
+                "time of publication",
+                "year of publication"
+            ],
+            "NOUN-VERB": [
+                "date published",
+                "date released"
+            ],
+            "X": [
+                "dop"
+            ],
+            "ADV-VERB": [
+                "first published",
+                "first released"
+            ],
+            "ADJ": [
+                "launched"
+            ],
+            "VERB": [
+                "published",
+                "released"
+            ],
+            "VERB-ADP": [
+                "released in"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P291",
+        "type": "literary_work->location",
+        "labels": [
+            "location of publication",
+            "place of publication",
+            "publication city",
+            "publication location",
+            "publication place",
+            "publication region",
+            "published in",
+            "release region",
+            "released in"
+        ],
+        "pos": {
+            "NOUN": [
+                "location of publication",
+                "place of publication",
+                "publication city",
+                "publication location",
+                "publication place",
+                "publication region",
+                "release region"
+            ],
+            "VERB-ADP": [
+                "published in",
+                "released in"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P212",
+        "type": "literary_work->id",
+        "labels": [
+            "Bookland",
+            "ISBN-13",
+            "ISBN13",
+            "International Standard Book Number-13",
+            "isbn",
+            "isbn-13"
+        ],
+        "pos": {
+            "NOUN": [
+                "Bookland",
+                "ISBN13",
+                "isbn",
+                "isbn-13"
+            ],
+            "": [
+                "ISBN-13"
+            ],
+            "NOUN-VERB": [
+                "International Standard Book Number-13"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P50",
+        "type": "literary_work->person",
+        "labels": [
+            "author",
+            "authors",
+            "by",
+            "creator",
+            "writer",
+            "writers",
+            "written by"
+        ],
+        "pos": {
+            "NOUN": [
+                "author",
+                "authors",
+                "creator",
+                "writer",
+                "writers"
+            ],
+            "ADP": [
+                "by"
+            ],
+            "VERB-ADP": [
+                "written by"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P123",
+        "type": "literary_work->organization",
+        "labels": [
+            "board game publisher",
+            "book publisher",
+            "published by",
+            "publisher",
+            "publishing house",
+            "software publisher",
+            "video game publisher"
+        ],
+        "pos": {
+            "NOUN": [
+                "board game publisher",
+                "book publisher",
+                "publisher",
+                "publishing house",
+                "software publisher",
+                "video game publisher"
+            ],
+            "VERB-ADP": [
+                "published by"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1476",
+        "type": "literary_work->text",
+        "labels": [
+            "article",
+            "full title",
+            "headline",
+            "known as",
+            "original title",
+            "title",
+            "titled"
+        ],
+        "pos": {
+            "NOUN": [
+                "article",
+                "full title",
+                "headline",
+                "original title",
+                "title"
+            ],
+            "VERB-SCONJ": [
+                "known as"
+            ],
+            "VERB": [
+                "titled"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P243",
+        "type": "literary_work->id",
+        "labels": [
+            "OCLC control number",
+            "OCLC number",
+            "OCN",
+            "WorldCat accession number"
+        ],
+        "pos": {
+            "NOUN": [
+                "OCLC control number",
+                "OCLC number",
+                "OCN",
+                "WorldCat accession number"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P136",
+        "type": "literary_work->genre",
+        "labels": [
+            "artistic genre",
+            "film genre",
+            "genre",
+            "genre of music",
+            "kind of music",
+            "literary genre",
+            "music genre",
+            "type of film",
+            "type of music"
+        ],
+        "pos": {
+            "NOUN": [
+                "artistic genre",
+                "film genre",
+                "genre",
+                "genre of music",
+                "literary genre",
+                "music genre",
+                "type of film",
+                "type of music"
+            ],
+            "ADV-NOUN": [
+                "kind of music"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P166",
+        "type": "literary_work->award",
+        "labels": [
+            "award",
+            "award received",
+            "award won",
+            "awarded",
+            "awards",
+            "awards received",
+            "honorary title",
+            "honors",
+            "honours",
+            "medals",
+            "prize awarded",
+            "prize received",
+            "recognition title",
+            "win",
+            "winner of"
+        ],
+        "pos": {
+            "NOUN": [
+                "award",
+                "awards",
+                "honorary title",
+                "honors",
+                "honours",
+                "medals",
+                "recognition title",
+                "win"
+            ],
+            "NOUN-VERB": [
+                "award received",
+                "award won",
+                "awards received",
+                "prize awarded",
+                "prize received"
+            ],
+            "VERB": [
+                "awarded"
+            ],
+            "NOUN-ADP": [
+                "winner of"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P4969",
+        "type": "literary_work->literary_work",
+        "labels": [
+            "adaptation",
+            "derivative work",
+            "has adaptation",
+            "is the basis for",
+            "quoted by"
+        ],
+        "pos": {
+            "NOUN": [
+                "adaptation",
+                "derivative work"
+            ],
+            "AUX-NOUN": [
+                "has adaptation"
+            ],
+            "AUX-ADP": [
+                "is the basis for"
+            ],
+            "VERB-ADP": [
+                "quoted by"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P407",
+        "type": "literary_work->language",
+        "labels": [
+            "audio language",
+            "available in",
+            "broadcasting language",
+            "language",
+            "language of URL",
+            "language of name",
+            "language of spoken text",
+            "language of the name",
+            "language of the reference",
+            "language of website",
+            "language of work",
+            "language of work or name",
+            "named in language",
+            "used language"
+        ],
+        "pos": {
+            "NOUN": [
+                "audio language",
+                "broadcasting language",
+                "language",
+                "language of URL",
+                "language of name",
+                "language of spoken text",
+                "language of the name",
+                "language of the reference",
+                "language of website",
+                "language of work",
+                "language of work or name"
+            ],
+            "ADJ-ADP": [
+                "available in"
+            ],
+            "VERB-NOUN": [
+                "named in language",
+                "used language"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P31",
+        "type": "literary_work->thing",
+        "labels": [
+            "distinct element of",
+            "distinct individual member of",
+            "distinct member of",
+            "has class",
+            "has type",
+            "instance of",
+            "is a",
+            "is a particular",
+            "is a specific",
+            "is a unique",
+            "is an",
+            "is an example of",
+            "is an individual",
+            "main type",
+            "member of",
+            "non-type member of",
+            "not a type but is instance of",
+            "occurrence of",
+            "rdf:type",
+            "type",
+            "uninstantiable instance of",
+            "unique individual of",
+            "unitary element of class",
+            "unsubclassable example of",
+            "unsubclassifiable member of",
+            "unsubtypable particular",
+            "\u2208"
+        ],
+        "pos": {
+            "NOUN-ADP": [
+                "distinct element of",
+                "distinct individual member of",
+                "distinct member of",
+                "instance of",
+                "member of",
+                "non-type member of",
+                "not a type but is instance of",
+                "occurrence of",
+                "uninstantiable instance of",
+                "unique individual of",
+                "unsubclassable example of",
+                "unsubclassifiable member of"
+            ],
+            "AUX-NOUN": [
+                "has class",
+                "has type",
+                "is a specific",
+                "is an individual"
+            ],
+            "AUX": [
+                "is a",
+                "is an"
+            ],
+            "AUX-ADJ": [
+                "is a particular",
+                "is a unique"
+            ],
+            "AUX-ADP": [
+                "is an example of"
+            ],
+            "NOUN": [
+                "main type",
+                "rdf:type",
+                "type",
+                "unitary element of class",
+                "\u2208"
+            ],
+            "ADJ": [
+                "unsubtypable particular"
+            ]
+        }
+    }
+]

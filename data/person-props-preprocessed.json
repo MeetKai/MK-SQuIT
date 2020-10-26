@@ -1,0 +1,2026 @@
+[
+    {
+        "prop": "http://www.wikidata.org/entity/P27",
+        "type": "person->country",
+        "labels": [
+            "citizen of",
+            "citizenship",
+            "country of citizenship",
+            "national of",
+            "nationality",
+            "subject of"
+        ],
+        "pos": {
+            "NOUN-ADP": [
+                "citizen of",
+                "national of",
+                "subject of"
+            ],
+            "NOUN": [
+                "citizenship",
+                "country of citizenship",
+                "nationality"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P40",
+        "type": "person->person",
+        "labels": [
+            "child",
+            "children",
+            "daughter",
+            "daughters",
+            "descendants",
+            "has child",
+            "has children",
+            "has daughter",
+            "has daughters",
+            "has kid",
+            "has kids",
+            "has son",
+            "has sons",
+            "issue",
+            "kid",
+            "kids",
+            "offspring",
+            "parent of",
+            "progeny",
+            "son",
+            "sons"
+        ],
+        "pos": {
+            "NOUN": [
+                "child",
+                "children",
+                "daughter",
+                "daughters",
+                "descendants",
+                "has kid",
+                "issue",
+                "kid",
+                "kids",
+                "offspring",
+                "progeny",
+                "son",
+                "sons"
+            ],
+            "AUX-NOUN": [
+                "has child",
+                "has children",
+                "has daughter",
+                "has daughters",
+                "has kids",
+                "has son",
+                "has sons"
+            ],
+            "NOUN-ADP": [
+                "parent of"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P213",
+        "type": "person->id",
+        "labels": [
+            "ISNI",
+            "ISO 27729",
+            "International Standard Name Identifier"
+        ],
+        "pos": {
+            "NOUN": [
+                "ISNI",
+                "International Standard Name Identifier"
+            ],
+            "NOUN-NUM": [
+                "ISO 27729"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P69",
+        "type": "person->organization",
+        "labels": [
+            "alma mater",
+            "alumna of",
+            "alumni of",
+            "alumnus of",
+            "college attended",
+            "educated at",
+            "education",
+            "faculty",
+            "graduate of",
+            "graduated from",
+            "place of education",
+            "school attended",
+            "studied at",
+            "university attended"
+        ],
+        "pos": {
+            "NOUN": [
+                "alma mater",
+                "education",
+                "faculty",
+                "place of education"
+            ],
+            "NOUN-ADP": [
+                "alumna of",
+                "alumni of",
+                "alumnus of",
+                "graduate of"
+            ],
+            "NOUN-VERB": [
+                "college attended",
+                "school attended",
+                "university attended"
+            ],
+            "VERB-ADP": [
+                "educated at",
+                "graduated from",
+                "studied at"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P18",
+        "type": "person->image",
+        "labels": [
+            "Commons image",
+            "Image on Commons",
+            "Image on Wikimedia Commons",
+            "diagram",
+            "drawing",
+            "graph",
+            "illustration",
+            "image",
+            "image capture",
+            "image of exterior",
+            "img",
+            "photo",
+            "picture",
+            "portrait",
+            "screen capture",
+            "screenshot",
+            "still"
+        ],
+        "pos": {
+            "NOUN": [
+                "Commons image",
+                "Image on Commons",
+                "Image on Wikimedia Commons",
+                "diagram",
+                "drawing",
+                "graph",
+                "illustration",
+                "image",
+                "image capture",
+                "image of exterior",
+                "img",
+                "photo",
+                "picture",
+                "portrait",
+                "screen capture",
+                "screenshot"
+            ],
+            "ADV": [
+                "still"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P25",
+        "type": "person->person",
+        "labels": [
+            "child of",
+            "daughter of",
+            "has mother",
+            "is child of",
+            "is daughter of",
+            "is son of",
+            "mam",
+            "mom",
+            "mother",
+            "mum",
+            "mummy",
+            "parent",
+            "son of"
+        ],
+        "pos": {
+            "NOUN-ADP": [
+                "child of",
+                "daughter of",
+                "son of"
+            ],
+            "AUX-NOUN": [
+                "has mother"
+            ],
+            "AUX-ADP": [
+                "is child of",
+                "is daughter of",
+                "is son of"
+            ],
+            "NOUN": [
+                "mam",
+                "mom",
+                "mother",
+                "mum",
+                "mummy",
+                "parent"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P140",
+        "type": "person->text",
+        "labels": [
+            "denomination",
+            "faith",
+            "follower of religion",
+            "follows religion",
+            "has religion",
+            "life stance",
+            "religion",
+            "religious affiliation"
+        ],
+        "pos": {
+            "NOUN": [
+                "denomination",
+                "faith",
+                "follower of religion",
+                "life stance",
+                "religion",
+                "religious affiliation"
+            ],
+            "VERB-NOUN": [
+                "follows religion"
+            ],
+            "AUX-NOUN": [
+                "has religion"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P53",
+        "type": "person->text",
+        "labels": [
+            "dynasty",
+            "family",
+            "house",
+            "noble family",
+            "royal house"
+        ],
+        "pos": {
+            "NOUN": [
+                "dynasty",
+                "family",
+                "house",
+                "noble family",
+                "royal house"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P172",
+        "type": "person->race",
+        "labels": [
+            "culture",
+            "ethnic group",
+            "ethnicity",
+            "nationality",
+            "people",
+            "race"
+        ],
+        "pos": {
+            "NOUN": [
+                "culture",
+                "ethnic group",
+                "ethnicity",
+                "nationality",
+                "people",
+                "race"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P109",
+        "type": "person->image",
+        "labels": [
+            "autograph",
+            "facsimiles",
+            "signature"
+        ],
+        "pos": {
+            "NOUN": [
+                "autograph",
+                "facsimiles",
+                "signature"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P22",
+        "type": "person->person",
+        "labels": [
+            "child of",
+            "dad",
+            "daddy",
+            "daughter of",
+            "father",
+            "has father",
+            "is child of",
+            "is daughter of",
+            "is son of",
+            "parent",
+            "son of"
+        ],
+        "pos": {
+            "NOUN-ADP": [
+                "child of",
+                "daughter of",
+                "son of"
+            ],
+            "NOUN": [
+                "dad",
+                "daddy",
+                "father",
+                "parent"
+            ],
+            "AUX-NOUN": [
+                "has father"
+            ],
+            "AUX-ADP": [
+                "is child of",
+                "is daughter of",
+                "is son of"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P106",
+        "type": "person->text",
+        "labels": [
+            "career",
+            "craft",
+            "employment",
+            "job",
+            "occupation",
+            "profession",
+            "work"
+        ],
+        "pos": {
+            "NOUN": [
+                "career",
+                "craft",
+                "employment",
+                "job",
+                "occupation",
+                "profession",
+                "work"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P19",
+        "type": "person->location",
+        "labels": [
+            "POB",
+            "birth city",
+            "birth location",
+            "birth place",
+            "birthplace",
+            "born at",
+            "born in",
+            "location born",
+            "location of birth",
+            "place of birth"
+        ],
+        "pos": {
+            "NOUN": [
+                "POB",
+                "birth city",
+                "birth location",
+                "birth place",
+                "birthplace",
+                "location of birth",
+                "place of birth"
+            ],
+            "VERB-ADP": [
+                "born at",
+                "born in"
+            ],
+            "NOUN-VERB": [
+                "location born"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P39",
+        "type": "person->text",
+        "labels": [
+            "holds position",
+            "office held",
+            "political office held",
+            "political seat",
+            "position held",
+            "position occupied",
+            "public office"
+        ],
+        "pos": {
+            "VERB-NOUN": [
+                "holds position"
+            ],
+            "NOUN-VERB": [
+                "office held",
+                "political office held",
+                "position held",
+                "position occupied"
+            ],
+            "NOUN": [
+                "political seat",
+                "public office"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P102",
+        "type": "person->organization",
+        "labels": [
+            "member of",
+            "member of party",
+            "member of political party",
+            "party",
+            "party membership",
+            "political party"
+        ],
+        "pos": {
+            "NOUN-ADP": [
+                "member of"
+            ],
+            "NOUN": [
+                "member of party",
+                "member of political party",
+                "party",
+                "party membership",
+                "political party"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P108",
+        "type": "person->organization",
+        "labels": [
+            "employed by",
+            "employer",
+            "worked at",
+            "worked for",
+            "working for",
+            "working place",
+            "workplace",
+            "works at",
+            "works for"
+        ],
+        "pos": {
+            "VERB-ADP": [
+                "employed by",
+                "worked at",
+                "worked for",
+                "working for",
+                "works at",
+                "works for"
+            ],
+            "NOUN": [
+                "employer",
+                "working place",
+                "workplace"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P166",
+        "type": "person->award",
+        "labels": [
+            "award",
+            "award received",
+            "award won",
+            "awarded",
+            "awards",
+            "awards received",
+            "honorary title",
+            "honors",
+            "honours",
+            "medals",
+            "prize awarded",
+            "prize received",
+            "recognition title",
+            "win",
+            "winner of"
+        ],
+        "pos": {
+            "NOUN": [
+                "award",
+                "awards",
+                "honorary title",
+                "honors",
+                "honours",
+                "medals",
+                "recognition title",
+                "win"
+            ],
+            "NOUN-VERB": [
+                "award received",
+                "award won",
+                "awards received",
+                "prize awarded",
+                "prize received"
+            ],
+            "VERB": [
+                "awarded"
+            ],
+            "NOUN-ADP": [
+                "winner of"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P101",
+        "type": "person->text",
+        "labels": [
+            "FOW",
+            "academic area",
+            "academic discipline",
+            "academic subject",
+            "activity",
+            "area",
+            "be researcher in",
+            "conduct research about",
+            "discipline",
+            "domain",
+            "field of study",
+            "field of work",
+            "fields",
+            "research on",
+            "responsible for",
+            "scientific area",
+            "scientific discipline",
+            "specialism",
+            "speciality",
+            "studies",
+            "subject"
+        ],
+        "pos": {
+            "NOUN": [
+                "FOW",
+                "academic area",
+                "academic discipline",
+                "academic subject",
+                "activity",
+                "area",
+                "discipline",
+                "domain",
+                "field of study",
+                "field of work",
+                "fields",
+                "scientific area",
+                "scientific discipline",
+                "specialism",
+                "speciality",
+                "studies",
+                "subject"
+            ],
+            "AUX-ADP": [
+                "be researcher in"
+            ],
+            "VERB-ADP": [
+                "conduct research about"
+            ],
+            "NOUN-ADP": [
+                "research on"
+            ],
+            "ADJ-ADP": [
+                "responsible for"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P26",
+        "type": "person->person",
+        "labels": [
+            "husband",
+            "husbands",
+            "marriage partner",
+            "married",
+            "married to",
+            "marry",
+            "spouse",
+            "spouses",
+            "wed",
+            "wedded to",
+            "wife",
+            "wives"
+        ],
+        "pos": {
+            "NOUN": [
+                "husband",
+                "husbands",
+                "marriage partner",
+                "married",
+                "marry",
+                "spouse",
+                "spouses",
+                "wife",
+                "wives"
+            ],
+            "ADJ-ADP": [
+                "married to"
+            ],
+            "PRON-VERB": [
+                "wed"
+            ],
+            "VERB-PART": [
+                "wedded to"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P21",
+        "type": "person->gender",
+        "labels": [
+            "biological sex",
+            "female",
+            "gender",
+            "gender expression",
+            "gender identity",
+            "intersex",
+            "male",
+            "man",
+            "sex",
+            "sex or gender",
+            "woman"
+        ],
+        "pos": {
+            "NOUN": [
+                "biological sex",
+                "female",
+                "gender",
+                "gender expression",
+                "gender identity",
+                "intersex",
+                "male",
+                "man",
+                "sex",
+                "sex or gender",
+                "woman"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P103",
+        "type": "person->language",
+        "labels": [
+            "L1 speaker of",
+            "first language",
+            "language native",
+            "mother tongue",
+            "native language"
+        ],
+        "pos": {
+            "NOUN-ADP": [
+                "L1 speaker of"
+            ],
+            "NOUN": [
+                "first language",
+                "language native",
+                "mother tongue",
+                "native language"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P31",
+        "type": "person->thing",
+        "labels": [
+            "distinct element of",
+            "distinct individual member of",
+            "distinct member of",
+            "has class",
+            "has type",
+            "instance of",
+            "is a",
+            "is a particular",
+            "is a specific",
+            "is a unique",
+            "is an",
+            "is an example of",
+            "is an individual",
+            "main type",
+            "member of",
+            "non-type member of",
+            "not a type but is instance of",
+            "occurrence of",
+            "rdf:type",
+            "type",
+            "uninstantiable instance of",
+            "unique individual of",
+            "unitary element of class",
+            "unsubclassable example of",
+            "unsubclassifiable member of",
+            "unsubtypable particular",
+            "\u2208"
+        ],
+        "pos": {
+            "NOUN-ADP": [
+                "distinct element of",
+                "distinct individual member of",
+                "distinct member of",
+                "instance of",
+                "member of",
+                "non-type member of",
+                "not a type but is instance of",
+                "occurrence of",
+                "uninstantiable instance of",
+                "unique individual of",
+                "unsubclassable example of",
+                "unsubclassifiable member of"
+            ],
+            "AUX-NOUN": [
+                "has class",
+                "has type",
+                "is a specific",
+                "is an individual"
+            ],
+            "AUX": [
+                "is a",
+                "is an"
+            ],
+            "AUX-ADJ": [
+                "is a particular",
+                "is a unique"
+            ],
+            "AUX-ADP": [
+                "is an example of"
+            ],
+            "NOUN": [
+                "main type",
+                "rdf:type",
+                "type",
+                "unitary element of class",
+                "\u2208"
+            ],
+            "ADJ": [
+                "unsubtypable particular"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P552",
+        "type": "person->text",
+        "labels": [
+            "dominant hand",
+            "handedness"
+        ],
+        "pos": {
+            "NOUN": [
+                "dominant hand",
+                "handedness"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P856",
+        "type": "person->url",
+        "labels": [
+            "URL",
+            "home page",
+            "homepage",
+            "official URL",
+            "official homepage",
+            "official page",
+            "official site",
+            "official web site",
+            "official website",
+            "site",
+            "site official",
+            "url official",
+            "web address",
+            "web site",
+            "website",
+            "website official",
+            "www site"
+        ],
+        "pos": {
+            "NOUN": [
+                "URL",
+                "home page",
+                "homepage",
+                "official URL",
+                "official homepage",
+                "official page",
+                "official site",
+                "official web site",
+                "official website",
+                "site",
+                "site official",
+                "url official",
+                "web address",
+                "web site",
+                "website",
+                "website official",
+                "www site"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P361",
+        "type": "person->thing",
+        "labels": [
+            "assembly of",
+            "band member of",
+            "branch of",
+            "cadet branch of",
+            "collateral branch of",
+            "component of",
+            "contained within",
+            "in",
+            "is part of",
+            "merged into",
+            "merged with",
+            "meronym of",
+            "part of",
+            "part of-property",
+            "section of",
+            "subassembly of",
+            "subgroup of",
+            "subsystem of",
+            "system of",
+            "within"
+        ],
+        "pos": {
+            "NOUN-ADP": [
+                "assembly of",
+                "band member of",
+                "branch of",
+                "cadet branch of",
+                "collateral branch of",
+                "component of",
+                "meronym of",
+                "part of",
+                "section of",
+                "subgroup of",
+                "subsystem of",
+                "system of"
+            ],
+            "VERB-ADP": [
+                "contained within",
+                "merged into",
+                "merged with"
+            ],
+            "ADJ": [
+                "in"
+            ],
+            "AUX-ADP": [
+                "is part of"
+            ],
+            "NOUN": [
+                "part of-property"
+            ],
+            "ADV-ADP": [
+                "subassembly of"
+            ],
+            "ADP": [
+                "within"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1299",
+        "type": "person->person",
+        "labels": [
+            "acted by",
+            "appears in",
+            "depicted by",
+            "depicted in",
+            "mentioned by",
+            "played by",
+            "portrayed by",
+            "referenced by"
+        ],
+        "pos": {
+            "VERB-ADP": [
+                "acted by",
+                "appears in",
+                "depicted by",
+                "depicted in",
+                "mentioned by",
+                "played by",
+                "portrayed by",
+                "referenced by"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P551",
+        "type": "person->location",
+        "labels": [
+            "home town",
+            "hometown",
+            "lived in",
+            "lives in",
+            "place of residence",
+            "resided at",
+            "resided in",
+            "residence",
+            "resident in",
+            "resident of"
+        ],
+        "pos": {
+            "NOUN": [
+                "home town",
+                "hometown",
+                "place of residence",
+                "residence"
+            ],
+            "VERB-ADP": [
+                "lived in",
+                "lives in",
+                "resided at",
+                "resided in"
+            ],
+            "NOUN-ADP": [
+                "resident in",
+                "resident of"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P935",
+        "type": "person->text",
+        "labels": [
+            "Commons gallery",
+            "gallery"
+        ],
+        "pos": {
+            "NOUN": [
+                "Commons gallery",
+                "gallery"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1038",
+        "type": "person->person",
+        "labels": [
+            "ancestor",
+            "aunt",
+            "aunt-in-law",
+            "brother-in-law",
+            "co-brother-in-law",
+            "co-husband",
+            "co-sibling-in-law",
+            "co-sister-in-law",
+            "co-wife",
+            "collateral descendant",
+            "cousin",
+            "daughter-in-law",
+            "descendant",
+            "family",
+            "family member",
+            "father-in-law",
+            "grandchild",
+            "grandchildren",
+            "granddauther",
+            "grandfather",
+            "grandmother",
+            "grandparent",
+            "grandson",
+            "kinsman",
+            "lineal descendant",
+            "mother-in-law",
+            "nephew",
+            "nibling",
+            "niece",
+            "non-binary parent",
+            "relation",
+            "relative",
+            "sister-in-law",
+            "son-in-law",
+            "uncle",
+            "uncle-in-law"
+        ],
+        "pos": {
+            "NOUN": [
+                "ancestor",
+                "aunt",
+                "aunt-in-law",
+                "brother-in-law",
+                "co-husband",
+                "co-sister-in-law",
+                "co-wife",
+                "collateral descendant",
+                "cousin",
+                "daughter-in-law",
+                "descendant",
+                "family",
+                "family member",
+                "father-in-law",
+                "grandchild",
+                "grandchildren",
+                "granddauther",
+                "grandfather",
+                "grandmother",
+                "grandparent",
+                "grandson",
+                "kinsman",
+                "lineal descendant",
+                "mother-in-law",
+                "nephew",
+                "nibling",
+                "niece",
+                "non-binary parent",
+                "relation",
+                "sister-in-law",
+                "son-in-law",
+                "uncle",
+                "uncle-in-law"
+            ],
+            "ADJ-NOUN": [
+                "co-brother-in-law",
+                "co-sibling-in-law"
+            ],
+            "ADJ": [
+                "relative"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P485",
+        "type": "person->location",
+        "labels": [
+            "archive location",
+            "archives at",
+            "correspondence at",
+            "papers at"
+        ],
+        "pos": {
+            "NOUN": [
+                "archive location"
+            ],
+            "NOUN-ADP": [
+                "archives at",
+                "correspondence at",
+                "papers at"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P569",
+        "type": "person->date",
+        "labels": [
+            "DOB",
+            "birth date",
+            "birth year",
+            "birthdate",
+            "birthyear",
+            "born on",
+            "date of birth",
+            "year of birth"
+        ],
+        "pos": {
+            "NOUN": [
+                "DOB",
+                "birth date",
+                "birth year",
+                "birthdate",
+                "birthyear",
+                "date of birth",
+                "year of birth"
+            ],
+            "VERB-ADP": [
+                "born on"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P734",
+        "type": "person->text",
+        "labels": [
+            "family name",
+            "last name",
+            "surname"
+        ],
+        "pos": {
+            "NOUN": [
+                "family name",
+                "last name",
+                "surname"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P443",
+        "type": "person->audio",
+        "labels": [
+            "pronunciation audio"
+        ],
+        "pos": {
+            "NOUN": [
+                "pronunciation audio"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P410",
+        "type": "person->text",
+        "labels": [
+            "military rank",
+            "rank"
+        ],
+        "pos": {
+            "NOUN": [
+                "military rank",
+                "rank"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P512",
+        "type": "person->text",
+        "labels": [
+            "academic degree",
+            "academic diploma",
+            "degree",
+            "diploma"
+        ],
+        "pos": {
+            "NOUN": [
+                "academic degree",
+                "academic diploma",
+                "degree",
+                "diploma"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P735",
+        "type": "person->text",
+        "labels": [
+            "Christian name",
+            "first name",
+            "forename",
+            "given name",
+            "middle name",
+            "name",
+            "personal name"
+        ],
+        "pos": {
+            "NOUN": [
+                "Christian name",
+                "first name",
+                "forename",
+                "middle name",
+                "name",
+                "personal name"
+            ],
+            "VERB-NOUN": [
+                "given name"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P937",
+        "type": "person->location",
+        "labels": [
+            "active in",
+            "location of work",
+            "place of activity",
+            "place of work",
+            "work location",
+            "work place",
+            "work residence",
+            "working at",
+            "workplace"
+        ],
+        "pos": {
+            "ADJ-ADP": [
+                "active in"
+            ],
+            "NOUN": [
+                "location of work",
+                "place of activity",
+                "place of work",
+                "work location",
+                "work place",
+                "work residence",
+                "workplace"
+            ],
+            "VERB-ADP": [
+                "working at"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P910",
+        "type": "person->text",
+        "labels": [
+            "category for this topic",
+            "has category",
+            "main category",
+            "subject category",
+            "topic's main category"
+        ],
+        "pos": {
+            "NOUN": [
+                "category for this topic",
+                "main category",
+                "subject category",
+                "topic's main category"
+            ],
+            "AUX-NOUN": [
+                "has category"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P973",
+        "type": "person->url",
+        "labels": [
+            "URL described in",
+            "descURL",
+            "described at URL",
+            "described at webpage",
+            "described by URL",
+            "described in URL",
+            "described in url",
+            "described on webpage",
+            "info URL",
+            "rdfs:isDefinedBy",
+            "web page describing"
+        ],
+        "pos": {
+            "NOUN-ADP": [
+                "URL described in"
+            ],
+            "NOUN": [
+                "descURL",
+                "info URL",
+                "rdfs:isDefinedBy"
+            ],
+            "VERB-NOUN": [
+                "described at URL",
+                "described at webpage",
+                "described by URL",
+                "described in URL",
+                "described in url",
+                "described on webpage"
+            ],
+            "NOUN-VERB": [
+                "web page describing"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1050",
+        "type": "person->text",
+        "labels": [
+            "ailment",
+            "condition",
+            "disability",
+            "disease",
+            "disorder",
+            "health condition",
+            "health issue",
+            "health problem",
+            "illness",
+            "medical condition",
+            "paralympic disability",
+            "suffer from",
+            "suffers from"
+        ],
+        "pos": {
+            "NOUN": [
+                "ailment",
+                "condition",
+                "disability",
+                "disease",
+                "disorder",
+                "health condition",
+                "health issue",
+                "health problem",
+                "illness",
+                "medical condition",
+                "paralympic disability"
+            ],
+            "VERB-ADP": [
+                "suffer from"
+            ],
+            "NOUN-ADP": [
+                "suffers from"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1343",
+        "type": "person->text",
+        "labels": [
+            "described by biography",
+            "described by encyclopedia",
+            "described by reference work",
+            "described by source",
+            "described in source",
+            "entry",
+            "subject of",
+            "written about in"
+        ],
+        "pos": {
+            "VERB-NOUN": [
+                "described by biography",
+                "described by encyclopedia",
+                "described by reference work",
+                "described by source",
+                "described in source"
+            ],
+            "NOUN": [
+                "entry"
+            ],
+            "NOUN-ADP": [
+                "subject of"
+            ],
+            "VERB-ADP": [
+                "written about in"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1151",
+        "type": "person->url",
+        "labels": [
+            "main portal",
+            "portal",
+            "topic's main Wikimedia portal"
+        ],
+        "pos": {
+            "NOUN": [
+                "main portal",
+                "portal",
+                "topic's main Wikimedia portal"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P737",
+        "type": "person->person",
+        "labels": [
+            "favorite player",
+            "has influence",
+            "influenced by",
+            "informed by",
+            "role model"
+        ],
+        "pos": {
+            "NOUN": [
+                "favorite player",
+                "role model"
+            ],
+            "AUX-NOUN": [
+                "has influence"
+            ],
+            "VERB-ADP": [
+                "influenced by",
+                "informed by"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P373",
+        "type": "person->text",
+        "labels": [
+            "Commons category",
+            "category Commons",
+            "commonscat"
+        ],
+        "pos": {
+            "NOUN": [
+                "Commons category",
+                "category Commons",
+                "commonscat"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P463",
+        "type": "person->organization",
+        "labels": [
+            "member of",
+            "membership"
+        ],
+        "pos": {
+            "NOUN-ADP": [
+                "member of"
+            ],
+            "NOUN": [
+                "membership"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P793",
+        "type": "person->text",
+        "labels": [
+            "big event",
+            "event",
+            "fate",
+            "key event",
+            "key incident",
+            "known for",
+            "main events",
+            "major event",
+            "notable event",
+            "notable incident",
+            "outcome",
+            "sign. event",
+            "significant achievment",
+            "significant event",
+            "significant incident"
+        ],
+        "pos": {
+            "NOUN": [
+                "big event",
+                "event",
+                "fate",
+                "key event",
+                "key incident",
+                "main events",
+                "major event",
+                "notable event",
+                "notable incident",
+                "outcome",
+                "sign. event",
+                "significant achievment",
+                "significant event",
+                "significant incident"
+            ],
+            "VERB-ADP": [
+                "known for"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1559",
+        "type": "person->text",
+        "labels": [
+            "name in native language",
+            "native name"
+        ],
+        "pos": {
+            "NOUN": [
+                "name in native language",
+                "native name"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1472",
+        "type": "person->url",
+        "labels": [
+            "Commons Creator page",
+            "creator page",
+            "creator template"
+        ],
+        "pos": {
+            "NOUN": [
+                "Commons Creator page",
+                "creator page",
+                "creator template"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1424",
+        "type": "person->text",
+        "labels": [
+            "infobox for this topic",
+            "main template",
+            "template for this topic",
+            "topic's main infobox",
+            "topic's main template"
+        ],
+        "pos": {
+            "NOUN": [
+                "infobox for this topic",
+                "main template",
+                "topic's main infobox",
+                "topic's main template"
+            ],
+            "VERB-NOUN": [
+                "template for this topic"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1411",
+        "type": "person->award",
+        "labels": [
+            "nominated for",
+            "nomination received",
+            "nominee for"
+        ],
+        "pos": {
+            "VERB-ADP": [
+                "nominated for"
+            ],
+            "NOUN-VERB": [
+                "nomination received"
+            ],
+            "NOUN-ADP": [
+                "nominee for"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1477",
+        "type": "person->text",
+        "labels": [
+            "birth name",
+            "birthname",
+            "bn",
+            "bname",
+            "born as",
+            "full name at birth",
+            "maiden name",
+            "name at birth",
+            "nee",
+            "n\u00e9e"
+        ],
+        "pos": {
+            "NOUN": [
+                "birth name",
+                "birthname",
+                "bn",
+                "bname",
+                "full name at birth",
+                "maiden name",
+                "name at birth",
+                "nee",
+                "n\u00e9e"
+            ],
+            "VERB-SCONJ": [
+                "born as"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P2888",
+        "type": "person->person",
+        "labels": [
+            "exact match",
+            "same as",
+            "sameas",
+            "skos:exactMatch",
+            "the same as"
+        ],
+        "pos": {
+            "NOUN": [
+                "exact match",
+                "sameas"
+            ],
+            "ADJ-SCONJ": [
+                "same as",
+                "the same as"
+            ],
+            "NOUN-VERB": [
+                "skos:exactMatch"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P3373",
+        "type": "person->person",
+        "labels": [
+            "bro",
+            "brother",
+            "brother or sister",
+            "brothers",
+            "brothers and sisters",
+            "has brother",
+            "has sibling",
+            "has sister",
+            "is sibling of",
+            "is the sibling of",
+            "sib",
+            "sibling",
+            "siblings",
+            "sis",
+            "sister",
+            "sister or brother",
+            "sisters",
+            "sisters and brothers"
+        ],
+        "pos": {
+            "NOUN": [
+                "bro",
+                "brother",
+                "brother or sister",
+                "brothers",
+                "brothers and sisters",
+                "sib",
+                "sibling",
+                "siblings",
+                "sis",
+                "sister",
+                "sister or brother",
+                "sisters",
+                "sisters and brothers"
+            ],
+            "AUX-NOUN": [
+                "has brother",
+                "has sister"
+            ],
+            "AUX-VERB": [
+                "has sibling"
+            ],
+            "AUX-ADP": [
+                "is sibling of",
+                "is the sibling of"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P2959",
+        "type": "person->text",
+        "labels": [
+            "duplicate",
+            "duplicate item",
+            "duplicate of",
+            "duplicate of item",
+            "identical to",
+            "permanent duplicated item",
+            "permanently duplicated item",
+            "same concept as"
+        ],
+        "pos": {
+            "NOUN": [
+                "duplicate",
+                "duplicate item",
+                "permanent duplicated item",
+                "permanently duplicated item"
+            ],
+            "ADJ-ADP": [
+                "duplicate of",
+                "identical to"
+            ],
+            "ADJ-NOUN": [
+                "duplicate of item"
+            ],
+            "NOUN-SCONJ": [
+                "same concept as"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1853",
+        "type": "person->text",
+        "labels": [
+            "blood group",
+            "blood type"
+        ],
+        "pos": {
+            "NOUN": [
+                "blood group",
+                "blood type"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P2067",
+        "type": "person->weight",
+        "labels": [
+            "atomic mass",
+            "atomic weight",
+            "displacement",
+            "mass",
+            "molar mass",
+            "molecular mass",
+            "weight"
+        ],
+        "pos": {
+            "NOUN": [
+                "atomic mass",
+                "atomic weight",
+                "displacement",
+                "mass",
+                "molar mass",
+                "molecular mass",
+                "weight"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P2048",
+        "type": "person->height",
+        "labels": [
+            "depth over terrain",
+            "height",
+            "heighth",
+            "size"
+        ],
+        "pos": {
+            "NOUN": [
+                "depth over terrain",
+                "height",
+                "heighth",
+                "size"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P2002",
+        "type": "person->text",
+        "labels": [
+            "Twitter",
+            "Twitter account",
+            "Twitter handle",
+            "Twitter username",
+            "Twitter.com account",
+            "Twitter.com username"
+        ],
+        "pos": {
+            "NOUN": [
+                "Twitter",
+                "Twitter account",
+                "Twitter handle",
+                "Twitter.com account",
+                "Twitter.com username"
+            ],
+            "NOUN-VERB": [
+                "Twitter username"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1412",
+        "type": "person->language",
+        "labels": [
+            "language",
+            "language of expression",
+            "language read",
+            "language signed",
+            "language spoken",
+            "language used",
+            "language written",
+            "languages of expression",
+            "languages signed",
+            "languages spoken",
+            "languages spoken, written or signed",
+            "or signed",
+            "second language",
+            "signed language",
+            "signs language",
+            "speaks language",
+            "spoke language",
+            "used language",
+            "uses language",
+            "writes language",
+            "written",
+            "written or signed",
+            "wrote language"
+        ],
+        "pos": {
+            "NOUN": [
+                "language",
+                "language of expression",
+                "language spoken",
+                "languages of expression",
+                "languages spoken",
+                "second language",
+                "signed language",
+                "signs language",
+                "spoke language"
+            ],
+            "NOUN-VERB": [
+                "language read",
+                "language signed",
+                "language used",
+                "language written",
+                "languages signed",
+                "languages spoken, written or signed"
+            ],
+            "CCONJ-VERB": [
+                "or signed"
+            ],
+            "VERB-NOUN": [
+                "speaks language",
+                "used language",
+                "uses language",
+                "writes language",
+                "wrote language"
+            ],
+            "VERB": [
+                "written",
+                "written or signed"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1449",
+        "type": "person->text",
+        "labels": [
+            "aka",
+            "also known as",
+            "epithet",
+            "informal name",
+            "moniker",
+            "nickname",
+            "sobriquet"
+        ],
+        "pos": {
+            "ADJ": [
+                "aka"
+            ],
+            "ADV-SCONJ": [
+                "also known as"
+            ],
+            "NOUN": [
+                "epithet",
+                "informal name",
+                "moniker",
+                "nickname",
+                "sobriquet"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P3448",
+        "type": "person->person",
+        "labels": [
+            "step father",
+            "step mother",
+            "step parent",
+            "step-father",
+            "step-mother",
+            "step-parent",
+            "stepfather",
+            "stepmother",
+            "stepparent"
+        ],
+        "pos": {
+            "NOUN": [
+                "step father",
+                "step mother",
+                "step parent",
+                "step-father",
+                "step-mother",
+                "step-parent",
+                "stepfather",
+                "stepmother",
+                "stepparent"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P2003",
+        "type": "person->text",
+        "labels": [
+            "IG account",
+            "IG username",
+            "Instagram username"
+        ],
+        "pos": {
+            "NOUN": [
+                "IG account"
+            ],
+            "NOUN-ADJ": [
+                "IG username"
+            ],
+            "NOUN-VERB": [
+                "Instagram username"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1429",
+        "type": "person->text",
+        "labels": [
+            "has pet"
+        ],
+        "pos": {
+            "AUX-VERB": [
+                "has pet"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P4839",
+        "type": "person->id",
+        "labels": [
+            "WL entity",
+            "WL entity code",
+            "Wolfram Language entity code",
+            "Wolfram entity code"
+        ],
+        "pos": {
+            "NOUN": [
+                "WL entity",
+                "WL entity code",
+                "Wolfram Language entity code",
+                "Wolfram entity code"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P5587",
+        "type": "person->url",
+        "labels": [
+            "Libris-URI"
+        ],
+        "pos": {
+            "NOUN": [
+                "Libris-URI"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P5008",
+        "type": "person->text",
+        "labels": [
+            "Wikimedia project focus list",
+            "catalog of Wikimedia project",
+            "focus list",
+            "focused on by Wikimedia project",
+            "has Wikimedia project",
+            "on focus list of Wikimedia project"
+        ],
+        "pos": {
+            "NOUN": [
+                "Wikimedia project focus list",
+                "catalog of Wikimedia project",
+                "focus list"
+            ],
+            "VERB-NOUN": [
+                "focused on by Wikimedia project"
+            ],
+            "AUX-NOUN": [
+                "has Wikimedia project"
+            ],
+            "ADP-NOUN": [
+                "on focus list of Wikimedia project"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P4265",
+        "type": "person->text",
+        "labels": [
+            "Reddit user name",
+            "Reddit username",
+            "username on Reddit"
+        ],
+        "pos": {
+            "NOUN": [
+                "Reddit user name",
+                "Reddit username"
+            ],
+            "ADJ-NOUN": [
+                "username on Reddit"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P6385",
+        "type": "person->text",
+        "labels": [
+            "Krugosvet article"
+        ],
+        "pos": {
+            "NOUN": [
+                "Krugosvet article"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P6886",
+        "type": "person->language",
+        "labels": [
+            "writing languages"
+        ],
+        "pos": {
+            "NOUN": [
+                "writing languages"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P6553",
+        "type": "person->text",
+        "labels": [
+            "personal pronoun",
+            "preferred pronoun",
+            "pronoun"
+        ],
+        "pos": {
+            "NOUN": [
+                "personal pronoun",
+                "preferred pronoun",
+                "pronoun"
+            ]
+        }
+    }
+]

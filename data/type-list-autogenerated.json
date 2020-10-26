@@ -1,0 +1,172 @@
+{
+    "start_domains": [
+        "television_series",
+        "person",
+        "movie",
+        "literary_work"
+    ],
+    "types": {
+        "text": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": false
+        },
+        "height": {
+            "WH": [
+                "How much"
+            ],
+            "start_domain": false
+        },
+        "race": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": false
+        },
+        "number": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": false
+        },
+        "count": {
+            "WH": [
+                "How many"
+            ],
+            "start_domain": false
+        },
+        "url": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": false
+        },
+        "dollar_value": {
+            "WH": [
+                "How much"
+            ],
+            "start_domain": false
+        },
+        "movie": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": true
+        },
+        "id": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": false
+        },
+        "organization": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": false
+        },
+        "thing": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": false
+        },
+        "language": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": false
+        },
+        "image": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": false
+        },
+        "country": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": false
+        },
+        "music": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": false
+        },
+        "television_series": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": true
+        },
+        "weight": {
+            "WH": [
+                "How much"
+            ],
+            "start_domain": false
+        },
+        "rating": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": false
+        },
+        "location": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": false
+        },
+        "literary_work": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": true
+        },
+        "award": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": false
+        },
+        "audio": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": false
+        },
+        "genre": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": false
+        },
+        "date": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": false
+        },
+        "gender": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": false
+        },
+        "person": {
+            "WH": [
+                "Who"
+            ],
+            "start_domain": true
+        },
+        "time": {
+            "WH": [
+                "What"
+            ],
+            "start_domain": false
+        }
+    }
+}

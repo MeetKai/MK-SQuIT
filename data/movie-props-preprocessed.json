@@ -1,0 +1,1044 @@
+[
+    {
+        "prop": "http://www.wikidata.org/entity/P364",
+        "type": "movie->language",
+        "labels": [
+            "created on language",
+            "language",
+            "language of the original work",
+            "original language",
+            "original language of film or TV show"
+        ],
+        "pos": {
+            "VERB-NOUN": [
+                "created on language"
+            ],
+            "NOUN": [
+                "language",
+                "language of the original work",
+                "original language",
+                "original language of film or TV show"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P915",
+        "type": "movie->location",
+        "labels": [
+            "filmed at",
+            "filming location",
+            "location of filming",
+            "location where filmed",
+            "place of filming",
+            "place where filmed",
+            "recorded at",
+            "recording location",
+            "shooting location",
+            "studio where filmed"
+        ],
+        "pos": {
+            "VERB-ADP": [
+                "filmed at",
+                "recorded at"
+            ],
+            "NOUN": [
+                "filming location",
+                "location of filming",
+                "place of filming",
+                "recording location"
+            ],
+            "NOUN-VERB": [
+                "location where filmed",
+                "place where filmed",
+                "studio where filmed"
+            ],
+            "VERB-NOUN": [
+                "shooting location"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P840",
+        "type": "movie->location",
+        "labels": [
+            "location of narrative",
+            "narrative location",
+            "narrative set in",
+            "playing in",
+            "set in location",
+            "setting location",
+            "takes place in"
+        ],
+        "pos": {
+            "NOUN": [
+                "location of narrative",
+                "narrative location"
+            ],
+            "NOUN-ADP": [
+                "narrative set in"
+            ],
+            "VERB-ADP": [
+                "playing in",
+                "takes place in"
+            ],
+            "VERB-NOUN": [
+                "set in location",
+                "setting location"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P921",
+        "type": "movie->text",
+        "labels": [
+            "about",
+            "artistic theme",
+            "describes",
+            "in regards to",
+            "index term",
+            "is about",
+            "keyword",
+            "main issue",
+            "main subject",
+            "main thing",
+            "main topic",
+            "mainly about",
+            "mentions",
+            "primary subject",
+            "primary topic",
+            "refers to",
+            "regarding",
+            "regards",
+            "sitter",
+            "subject",
+            "subject heading",
+            "theme",
+            "topic",
+            "topic of work"
+        ],
+        "pos": {
+            "ADJ": [
+                "about"
+            ],
+            "NOUN": [
+                "artistic theme",
+                "describes",
+                "index term",
+                "keyword",
+                "main issue",
+                "main subject",
+                "main thing",
+                "main topic",
+                "mentions",
+                "primary subject",
+                "primary topic",
+                "regarding",
+                "regards",
+                "sitter",
+                "subject",
+                "subject heading",
+                "theme",
+                "topic",
+                "topic of work"
+            ],
+            "ADP": [
+                "in regards to"
+            ],
+            "AUX-ADP": [
+                "is about"
+            ],
+            "ADV-ADP": [
+                "mainly about"
+            ],
+            "VERB-ADP": [
+                "refers to"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1411",
+        "type": "movie->award",
+        "labels": [
+            "nominated for",
+            "nomination received",
+            "nominee for"
+        ],
+        "pos": {
+            "VERB-ADP": [
+                "nominated for"
+            ],
+            "NOUN-VERB": [
+                "nomination received"
+            ],
+            "NOUN-ADP": [
+                "nominee for"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P135",
+        "type": "movie->genre",
+        "labels": [
+            "artistic movement",
+            "artistic school",
+            "literary movement",
+            "movement",
+            "music scene",
+            "philosophical movement",
+            "school",
+            "scientific movement",
+            "trend"
+        ],
+        "pos": {
+            "NOUN": [
+                "artistic movement",
+                "artistic school",
+                "literary movement",
+                "movement",
+                "music scene",
+                "philosophical movement",
+                "school",
+                "scientific movement",
+                "trend"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P495",
+        "type": "movie->country",
+        "labels": [
+            "CoO",
+            "comes from",
+            "country of origin",
+            "origin",
+            "originates from",
+            "place of origin"
+        ],
+        "pos": {
+            "NOUN": [
+                "CoO",
+                "country of origin",
+                "origin",
+                "place of origin"
+            ],
+            "VERB-ADP": [
+                "comes from",
+                "originates from"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P577",
+        "type": "movie->date",
+        "labels": [
+            "air date",
+            "airdate",
+            "date of first publication",
+            "date of publication",
+            "date of release",
+            "date published",
+            "date released",
+            "dop",
+            "first publication",
+            "first published",
+            "first released",
+            "initial release",
+            "launch date",
+            "launched",
+            "pubdate",
+            "publication",
+            "publication date",
+            "publication time",
+            "published",
+            "release date",
+            "released",
+            "released in",
+            "time of publication",
+            "year of publication"
+        ],
+        "pos": {
+            "NOUN": [
+                "air date",
+                "airdate",
+                "date of first publication",
+                "date of publication",
+                "date of release",
+                "first publication",
+                "initial release",
+                "launch date",
+                "pubdate",
+                "publication",
+                "publication date",
+                "publication time",
+                "release date",
+                "time of publication",
+                "year of publication"
+            ],
+            "NOUN-VERB": [
+                "date published",
+                "date released"
+            ],
+            "X": [
+                "dop"
+            ],
+            "ADV-VERB": [
+                "first published",
+                "first released"
+            ],
+            "ADJ": [
+                "launched"
+            ],
+            "VERB": [
+                "published",
+                "released"
+            ],
+            "VERB-ADP": [
+                "released in"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P462",
+        "type": "movie->text",
+        "labels": [
+            "color",
+            "colors",
+            "colour",
+            "colours",
+            "has color",
+            "has colour"
+        ],
+        "pos": {
+            "NOUN": [
+                "color",
+                "colors",
+                "colour",
+                "colours"
+            ],
+            "AUX-NOUN": [
+                "has color",
+                "has colour"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P86",
+        "type": "movie->person",
+        "labels": [
+            "composed by",
+            "composer",
+            "music by",
+            "musical score by",
+            "songwriter",
+            "written by"
+        ],
+        "pos": {
+            "VERB-ADP": [
+                "composed by",
+                "written by"
+            ],
+            "NOUN": [
+                "composer",
+                "songwriter"
+            ],
+            "NOUN-ADP": [
+                "music by",
+                "musical score by"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P58",
+        "type": "movie->person",
+        "labels": [
+            "film script by",
+            "screenplay by",
+            "screenwriter",
+            "scriptwriter",
+            "teleplay by",
+            "writer",
+            "writing credits",
+            "written by"
+        ],
+        "pos": {
+            "NOUN-ADP": [
+                "film script by",
+                "screenplay by",
+                "teleplay by"
+            ],
+            "NOUN": [
+                "screenwriter",
+                "scriptwriter",
+                "writer",
+                "writing credits"
+            ],
+            "VERB-ADP": [
+                "written by"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P57",
+        "type": "movie->person",
+        "labels": [
+            "directed by",
+            "director",
+            "film director",
+            "movie director"
+        ],
+        "pos": {
+            "VERB-ADP": [
+                "directed by"
+            ],
+            "NOUN": [
+                "director",
+                "film director",
+                "movie director"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1040",
+        "type": "movie->person",
+        "labels": [
+            "edited by",
+            "editor",
+            "film editor"
+        ],
+        "pos": {
+            "VERB-ADP": [
+                "edited by"
+            ],
+            "NOUN": [
+                "editor",
+                "film editor"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1476",
+        "type": "movie->text",
+        "labels": [
+            "article",
+            "full title",
+            "headline",
+            "known as",
+            "original title",
+            "title",
+            "titled"
+        ],
+        "pos": {
+            "NOUN": [
+                "article",
+                "full title",
+                "headline",
+                "original title",
+                "title"
+            ],
+            "VERB-SCONJ": [
+                "known as"
+            ],
+            "VERB": [
+                "titled"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P162",
+        "type": "movie->person",
+        "labels": [
+            "film producer",
+            "produced by",
+            "producer",
+            "record producer"
+        ],
+        "pos": {
+            "NOUN": [
+                "film producer",
+                "producer",
+                "record producer"
+            ],
+            "VERB-ADP": [
+                "produced by"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P136",
+        "type": "movie->genre",
+        "labels": [
+            "artistic genre",
+            "film genre",
+            "genre",
+            "genre of music",
+            "kind of music",
+            "literary genre",
+            "music genre",
+            "type of film",
+            "type of music"
+        ],
+        "pos": {
+            "NOUN": [
+                "artistic genre",
+                "film genre",
+                "genre",
+                "genre of music",
+                "literary genre",
+                "music genre",
+                "type of film",
+                "type of music"
+            ],
+            "ADV-NOUN": [
+                "kind of music"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P166",
+        "type": "movie->award",
+        "labels": [
+            "award",
+            "award received",
+            "award won",
+            "awarded",
+            "awards",
+            "awards received",
+            "honorary title",
+            "honors",
+            "honours",
+            "medals",
+            "prize awarded",
+            "prize received",
+            "recognition title",
+            "win",
+            "winner of"
+        ],
+        "pos": {
+            "NOUN": [
+                "award",
+                "awards",
+                "honorary title",
+                "honors",
+                "honours",
+                "medals",
+                "recognition title",
+                "win"
+            ],
+            "NOUN-VERB": [
+                "award received",
+                "award won",
+                "awards received",
+                "prize awarded",
+                "prize received"
+            ],
+            "VERB": [
+                "awarded"
+            ],
+            "NOUN-ADP": [
+                "winner of"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P175",
+        "type": "movie->person",
+        "labels": [
+            "actor",
+            "actress",
+            "artist",
+            "dancer",
+            "musical artist",
+            "musician",
+            "performed by",
+            "performer",
+            "played by",
+            "portrayed by",
+            "recorded by",
+            "recording by"
+        ],
+        "pos": {
+            "NOUN": [
+                "actor",
+                "actress",
+                "artist",
+                "dancer",
+                "musical artist",
+                "musician",
+                "performer"
+            ],
+            "VERB-ADP": [
+                "performed by",
+                "played by",
+                "portrayed by",
+                "recorded by",
+                "recording by"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P373",
+        "type": "movie->text",
+        "labels": [
+            "Commons category",
+            "category Commons",
+            "commonscat"
+        ],
+        "pos": {
+            "NOUN": [
+                "Commons category",
+                "category Commons",
+                "commonscat"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P750",
+        "type": "movie->organization",
+        "labels": [
+            "distributed by",
+            "distributor"
+        ],
+        "pos": {
+            "VERB-ADP": [
+                "distributed by"
+            ],
+            "NOUN": [
+                "distributor"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P272",
+        "type": "movie->organization",
+        "labels": [
+            "ballet company",
+            "broadcasting company",
+            "film studio",
+            "motion picture studio",
+            "movie studio",
+            "production company",
+            "production house",
+            "studio",
+            "theater company",
+            "theatre company",
+            "theatrical troupe"
+        ],
+        "pos": {
+            "NOUN": [
+                "ballet company",
+                "broadcasting company",
+                "film studio",
+                "motion picture studio",
+                "movie studio",
+                "production company",
+                "production house",
+                "studio",
+                "theater company",
+                "theatre company",
+                "theatrical troupe"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1552",
+        "type": "movie->text",
+        "labels": [
+            "aspect",
+            "attribute",
+            "characterized by",
+            "defined by",
+            "defining feature",
+            "defining parameter",
+            "has characteristic",
+            "has feature",
+            "has property",
+            "has quality",
+            "inherent property",
+            "parameter",
+            "quality",
+            "required property",
+            "requirement",
+            "trait"
+        ],
+        "pos": {
+            "NOUN": [
+                "aspect",
+                "attribute",
+                "has feature",
+                "inherent property",
+                "parameter",
+                "quality",
+                "required property",
+                "requirement",
+                "trait"
+            ],
+            "VERB-ADP": [
+                "characterized by",
+                "defined by"
+            ],
+            "VERB-NOUN": [
+                "defining feature",
+                "defining parameter"
+            ],
+            "AUX-ADJ": [
+                "has characteristic"
+            ],
+            "AUX-NOUN": [
+                "has property",
+                "has quality"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P161",
+        "type": "movie->person",
+        "labels": [
+            "actor",
+            "actress",
+            "cast member",
+            "contestant of a play",
+            "film starring",
+            "starring"
+        ],
+        "pos": {
+            "NOUN": [
+                "actor",
+                "actress",
+                "cast member",
+                "contestant of a play",
+                "film starring",
+                "starring"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P344",
+        "type": "movie->person",
+        "labels": [
+            "Cinematography",
+            "DOP",
+            "cinematographer",
+            "director of photography"
+        ],
+        "pos": {
+            "NOUN": [
+                "Cinematography",
+                "DOP",
+                "cinematographer",
+                "director of photography"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P18",
+        "type": "movie->image",
+        "labels": [
+            "Commons image",
+            "Image on Commons",
+            "Image on Wikimedia Commons",
+            "diagram",
+            "drawing",
+            "graph",
+            "illustration",
+            "image",
+            "image capture",
+            "image of exterior",
+            "img",
+            "photo",
+            "picture",
+            "portrait",
+            "screen capture",
+            "screenshot",
+            "still"
+        ],
+        "pos": {
+            "NOUN": [
+                "Commons image",
+                "Image on Commons",
+                "Image on Wikimedia Commons",
+                "diagram",
+                "drawing",
+                "graph",
+                "illustration",
+                "image",
+                "image capture",
+                "image of exterior",
+                "img",
+                "photo",
+                "picture",
+                "portrait",
+                "screen capture",
+                "screenshot"
+            ],
+            "ADV": [
+                "still"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P31",
+        "type": "movie->thing",
+        "labels": [
+            "distinct element of",
+            "distinct individual member of",
+            "distinct member of",
+            "has class",
+            "has type",
+            "instance of",
+            "is a",
+            "is a particular",
+            "is a specific",
+            "is a unique",
+            "is an",
+            "is an example of",
+            "is an individual",
+            "main type",
+            "member of",
+            "non-type member of",
+            "not a type but is instance of",
+            "occurrence of",
+            "rdf:type",
+            "type",
+            "uninstantiable instance of",
+            "unique individual of",
+            "unitary element of class",
+            "unsubclassable example of",
+            "unsubclassifiable member of",
+            "unsubtypable particular",
+            "\u2208"
+        ],
+        "pos": {
+            "NOUN-ADP": [
+                "distinct element of",
+                "distinct individual member of",
+                "distinct member of",
+                "instance of",
+                "member of",
+                "non-type member of",
+                "not a type but is instance of",
+                "occurrence of",
+                "uninstantiable instance of",
+                "unique individual of",
+                "unsubclassable example of",
+                "unsubclassifiable member of"
+            ],
+            "AUX-NOUN": [
+                "has class",
+                "has type",
+                "is a specific",
+                "is an individual"
+            ],
+            "AUX": [
+                "is a",
+                "is an"
+            ],
+            "AUX-ADJ": [
+                "is a particular",
+                "is a unique"
+            ],
+            "AUX-ADP": [
+                "is an example of"
+            ],
+            "NOUN": [
+                "main type",
+                "rdf:type",
+                "type",
+                "unitary element of class",
+                "\u2208"
+            ],
+            "ADJ": [
+                "unsubtypable particular"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P2047",
+        "type": "movie->time",
+        "labels": [
+            "duration",
+            "era",
+            "interval",
+            "length",
+            "length of time",
+            "period",
+            "run time",
+            "running length",
+            "running time",
+            "runtime",
+            "time interval",
+            "time span",
+            "timespan"
+        ],
+        "pos": {
+            "NOUN": [
+                "duration",
+                "era",
+                "interval",
+                "length",
+                "length of time",
+                "period",
+                "running time",
+                "runtime",
+                "time interval",
+                "time span",
+                "timespan"
+            ],
+            "VERB-NOUN": [
+                "run time",
+                "running length"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P2758",
+        "type": "movie->rating",
+        "labels": [
+            "CNC film rating",
+            "CNC movie rating",
+            "CNC rating",
+            "Commission de classification des \u0153uvres cin\u00e9matographiques film rating",
+            "film classification category"
+        ],
+        "pos": {
+            "NOUN": [
+                "CNC film rating",
+                "CNC movie rating",
+                "CNC rating",
+                "Commission de classification des \u0153uvres cin\u00e9matographiques film rating",
+                "film classification category"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P2130",
+        "type": "movie->dollar_value",
+        "labels": [
+            "budget",
+            "cost",
+            "unit cost"
+        ],
+        "pos": {
+            "NOUN": [
+                "budget",
+                "cost"
+            ],
+            "NOUN-VERB": [
+                "unit cost"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P3212",
+        "type": "movie->id",
+        "labels": [
+            "ISAN",
+            "ISAN identifier",
+            "International Standard Audiovisual Number"
+        ],
+        "pos": {
+            "NOUN": [
+                "ISAN",
+                "ISAN identifier",
+                "International Standard Audiovisual Number"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P2747",
+        "type": "movie->rating",
+        "labels": [
+            "Filmiroda rating"
+        ],
+        "pos": {
+            "NOUN": [
+                "Filmiroda rating"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P4276",
+        "type": "movie->id",
+        "labels": [
+            "Cin\u00e9math\u00e8que qu\u00e9b\u00e9coise work identifier"
+        ],
+        "pos": {
+            "NOUN": [
+                "Cin\u00e9math\u00e8que qu\u00e9b\u00e9coise work identifier"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P2142",
+        "type": "movie->dollar_value",
+        "labels": [
+            "box office",
+            "earnings"
+        ],
+        "pos": {
+            "NOUN": [
+                "box office",
+                "earnings"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P2755",
+        "type": "movie->number",
+        "labels": [
+            "exploitation visa",
+            "exploitation visa number",
+            "film distribution certificate"
+        ],
+        "pos": {
+            "NOUN": [
+                "exploitation visa",
+                "exploitation visa number",
+                "film distribution certificate"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P3306",
+        "type": "movie->rating",
+        "labels": [
+            "ICAA rating"
+        ],
+        "pos": {
+            "NOUN": [
+                "ICAA rating"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P3402",
+        "type": "movie->rating",
+        "labels": [
+            "CNC film rating",
+            "CNC movie rating",
+            "CNC rating"
+        ],
+        "pos": {
+            "NOUN": [
+                "CNC film rating",
+                "CNC movie rating",
+                "CNC rating"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P2061",
+        "type": "movie->text",
+        "labels": [
+            "aspect ratio",
+            "image aspect ratio",
+            "ratio"
+        ],
+        "pos": {
+            "NOUN": [
+                "aspect ratio",
+                "image aspect ratio",
+                "ratio"
+            ]
+        }
+    }
+]

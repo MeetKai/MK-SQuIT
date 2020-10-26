@@ -1,0 +1,1226 @@
+[
+    {
+        "prop": "http://www.wikidata.org/entity/P144",
+        "type": "television_series->text",
+        "labels": [
+            "adaptation of",
+            "adapted from",
+            "based on",
+            "based upon",
+            "copy of",
+            "derived from",
+            "extended from",
+            "fork of",
+            "modeled after",
+            "modelled after",
+            "remake of",
+            "replica of",
+            "theme",
+            "themed after"
+        ],
+        "pos": {
+            "NOUN-ADP": [
+                "adaptation of",
+                "copy of",
+                "fork of",
+                "remake of",
+                "replica of"
+            ],
+            "VERB-ADP": [
+                "adapted from",
+                "based on",
+                "derived from",
+                "extended from",
+                "modeled after",
+                "modelled after"
+            ],
+            "VERB-SCONJ": [
+                "based upon"
+            ],
+            "NOUN": [
+                "theme"
+            ],
+            "ADJ-ADP": [
+                "themed after"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P154",
+        "type": "television_series->image",
+        "labels": [
+            "insignia",
+            "logo",
+            "logo image",
+            "logomark",
+            "mark",
+            "marque",
+            "sign",
+            "trademark",
+            "wordmark"
+        ],
+        "pos": {
+            "NOUN": [
+                "insignia",
+                "logo",
+                "logo image",
+                "logomark",
+                "mark",
+                "marque",
+                "sign",
+                "trademark",
+                "wordmark"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P86",
+        "type": "television_series->person",
+        "labels": [
+            "composed by",
+            "composer",
+            "music by",
+            "musical score by",
+            "songwriter",
+            "written by"
+        ],
+        "pos": {
+            "VERB-ADP": [
+                "composed by",
+                "written by"
+            ],
+            "NOUN": [
+                "composer",
+                "songwriter"
+            ],
+            "NOUN-ADP": [
+                "music by",
+                "musical score by"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P58",
+        "type": "television_series->person",
+        "labels": [
+            "film script by",
+            "screenplay by",
+            "screenwriter",
+            "scriptwriter",
+            "teleplay by",
+            "writer",
+            "writing credits",
+            "written by"
+        ],
+        "pos": {
+            "NOUN-ADP": [
+                "film script by",
+                "screenplay by",
+                "teleplay by"
+            ],
+            "NOUN": [
+                "screenwriter",
+                "scriptwriter",
+                "writer",
+                "writing credits"
+            ],
+            "VERB-ADP": [
+                "written by"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P136",
+        "type": "television_series->genre",
+        "labels": [
+            "artistic genre",
+            "film genre",
+            "genre",
+            "genre of music",
+            "kind of music",
+            "literary genre",
+            "music genre",
+            "type of film",
+            "type of music"
+        ],
+        "pos": {
+            "NOUN": [
+                "artistic genre",
+                "film genre",
+                "genre",
+                "genre of music",
+                "literary genre",
+                "music genre",
+                "type of film",
+                "type of music"
+            ],
+            "ADV-NOUN": [
+                "kind of music"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P138",
+        "type": "television_series->thing",
+        "labels": [
+            "eponym",
+            "etymology",
+            "linked with",
+            "name after",
+            "named after",
+            "named for",
+            "named in honor of",
+            "namesake",
+            "toponym"
+        ],
+        "pos": {
+            "NOUN": [
+                "eponym",
+                "etymology",
+                "namesake",
+                "toponym"
+            ],
+            "VERB-ADP": [
+                "linked with",
+                "named after",
+                "named for",
+                "named in honor of"
+            ],
+            "NOUN-ADP": [
+                "name after"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P161",
+        "type": "television_series->person",
+        "labels": [
+            "actor",
+            "actress",
+            "cast member",
+            "contestant of a play",
+            "film starring",
+            "starring"
+        ],
+        "pos": {
+            "NOUN": [
+                "actor",
+                "actress",
+                "cast member",
+                "contestant of a play",
+                "film starring",
+                "starring"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P31",
+        "type": "television_series->thing",
+        "labels": [
+            "distinct element of",
+            "distinct individual member of",
+            "distinct member of",
+            "has class",
+            "has type",
+            "instance of",
+            "is a",
+            "is a particular",
+            "is a specific",
+            "is a unique",
+            "is an",
+            "is an example of",
+            "is an individual",
+            "main type",
+            "member of",
+            "non-type member of",
+            "not a type but is instance of",
+            "occurrence of",
+            "rdf:type",
+            "type",
+            "uninstantiable instance of",
+            "unique individual of",
+            "unitary element of class",
+            "unsubclassable example of",
+            "unsubclassifiable member of",
+            "unsubtypable particular",
+            "\u2208"
+        ],
+        "pos": {
+            "NOUN-ADP": [
+                "distinct element of",
+                "distinct individual member of",
+                "distinct member of",
+                "instance of",
+                "member of",
+                "non-type member of",
+                "not a type but is instance of",
+                "occurrence of",
+                "uninstantiable instance of",
+                "unique individual of",
+                "unsubclassable example of",
+                "unsubclassifiable member of"
+            ],
+            "AUX-NOUN": [
+                "has class",
+                "has type",
+                "is a specific",
+                "is an individual"
+            ],
+            "AUX": [
+                "is a",
+                "is an"
+            ],
+            "AUX-ADJ": [
+                "is a particular",
+                "is a unique"
+            ],
+            "AUX-ADP": [
+                "is an example of"
+            ],
+            "NOUN": [
+                "main type",
+                "rdf:type",
+                "type",
+                "unitary element of class",
+                "\u2208"
+            ],
+            "ADJ": [
+                "unsubtypable particular"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P856",
+        "type": "television_series->url",
+        "labels": [
+            "URL",
+            "home page",
+            "homepage",
+            "official URL",
+            "official homepage",
+            "official page",
+            "official site",
+            "official web site",
+            "official website",
+            "site",
+            "site official",
+            "url official",
+            "web address",
+            "web site",
+            "website",
+            "website official",
+            "www site"
+        ],
+        "pos": {
+            "NOUN": [
+                "URL",
+                "home page",
+                "homepage",
+                "official URL",
+                "official homepage",
+                "official page",
+                "official site",
+                "official web site",
+                "official website",
+                "site",
+                "site official",
+                "url official",
+                "web address",
+                "web site",
+                "website",
+                "website official",
+                "www site"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P915",
+        "type": "television_series->location",
+        "labels": [
+            "filmed at",
+            "filming location",
+            "location of filming",
+            "location where filmed",
+            "place of filming",
+            "place where filmed",
+            "recorded at",
+            "recording location",
+            "shooting location",
+            "studio where filmed"
+        ],
+        "pos": {
+            "VERB-ADP": [
+                "filmed at",
+                "recorded at"
+            ],
+            "NOUN": [
+                "filming location",
+                "location of filming",
+                "place of filming",
+                "recording location"
+            ],
+            "NOUN-VERB": [
+                "location where filmed",
+                "place where filmed",
+                "studio where filmed"
+            ],
+            "VERB-NOUN": [
+                "shooting location"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P840",
+        "type": "television_series->location",
+        "labels": [
+            "location of narrative",
+            "narrative location",
+            "narrative set in",
+            "playing in",
+            "set in location",
+            "setting location",
+            "takes place in"
+        ],
+        "pos": {
+            "NOUN": [
+                "location of narrative",
+                "narrative location"
+            ],
+            "NOUN-ADP": [
+                "narrative set in"
+            ],
+            "VERB-ADP": [
+                "playing in",
+                "takes place in"
+            ],
+            "VERB-NOUN": [
+                "set in location",
+                "setting location"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P582",
+        "type": "television_series->date",
+        "labels": [
+            "cease date",
+            "cease operation",
+            "cease time",
+            "closed",
+            "completed in",
+            "dissolved",
+            "divorced",
+            "end date",
+            "end time",
+            "enddate",
+            "ending",
+            "ends",
+            "endtime",
+            "fall date",
+            "left office",
+            "stop time",
+            "till",
+            "to",
+            "until"
+        ],
+        "pos": {
+            "NOUN": [
+                "cease date",
+                "cease operation",
+                "cease time",
+                "end date",
+                "end time",
+                "enddate",
+                "ending",
+                "ends",
+                "endtime",
+                "fall date",
+                "left office"
+            ],
+            "VERB": [
+                "closed",
+                "dissolved",
+                "divorced"
+            ],
+            "VERB-ADP": [
+                "completed in"
+            ],
+            "VERB-NOUN": [
+                "stop time"
+            ],
+            "SCONJ": [
+                "till"
+            ],
+            "ADP": [
+                "to",
+                "until"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P580",
+        "type": "television_series->date",
+        "labels": [
+            "began",
+            "beginning",
+            "building date",
+            "from",
+            "from date",
+            "from time",
+            "introduced",
+            "introduction",
+            "join date",
+            "join time",
+            "since",
+            "start date",
+            "start time",
+            "started in",
+            "starting",
+            "starttime"
+        ],
+        "pos": {
+            "NOUN": [
+                "began",
+                "beginning",
+                "building date",
+                "introduction",
+                "join date",
+                "join time",
+                "starting",
+                "starttime"
+            ],
+            "ADP": [
+                "from"
+            ],
+            "ADP-NOUN": [
+                "from date",
+                "from time"
+            ],
+            "VERB": [
+                "introduced"
+            ],
+            "SCONJ": [
+                "since"
+            ],
+            "VERB-NOUN": [
+                "start date",
+                "start time"
+            ],
+            "VERB-ADP": [
+                "started in"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P674",
+        "type": "television_series->person",
+        "labels": [
+            "characters"
+        ],
+        "pos": {
+            "NOUN": [
+                "characters"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P910",
+        "type": "television_series->text",
+        "labels": [
+            "category for this topic",
+            "has category",
+            "main category",
+            "subject category",
+            "topic's main category"
+        ],
+        "pos": {
+            "NOUN": [
+                "category for this topic",
+                "main category",
+                "subject category",
+                "topic's main category"
+            ],
+            "AUX-NOUN": [
+                "has category"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P527",
+        "type": "television_series->thing",
+        "labels": [
+            "amalgamation of",
+            "assembled from",
+            "assembled out of",
+            "composed of",
+            "comprised of",
+            "consists of",
+            "contain",
+            "contains",
+            "created from",
+            "created out of",
+            "formed from",
+            "formed out of",
+            "has as part",
+            "has component",
+            "has ingredient",
+            "has ingredients",
+            "has member",
+            "has part",
+            "have part",
+            "holonym of",
+            "includes",
+            "includes part",
+            "ingredients",
+            "parts",
+            "set of"
+        ],
+        "pos": {
+            "NOUN-ADP": [
+                "amalgamation of",
+                "holonym of",
+                "set of"
+            ],
+            "VERB-ADP": [
+                "assembled from",
+                "assembled out of",
+                "composed of",
+                "comprised of",
+                "consists of",
+                "created from",
+                "created out of",
+                "formed from",
+                "formed out of"
+            ],
+            "NOUN": [
+                "contain",
+                "contains",
+                "includes",
+                "ingredients",
+                "parts"
+            ],
+            "AUX-NOUN": [
+                "has as part",
+                "has component",
+                "has ingredients",
+                "has member",
+                "has part",
+                "have part"
+            ],
+            "AUX-VERB": [
+                "has ingredient"
+            ],
+            "VERB-NOUN": [
+                "includes part"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P750",
+        "type": "television_series->organization",
+        "labels": [
+            "distributed by",
+            "distributor"
+        ],
+        "pos": {
+            "VERB-ADP": [
+                "distributed by"
+            ],
+            "NOUN": [
+                "distributor"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1431",
+        "type": "television_series->person",
+        "labels": [
+            "executive producer",
+            "showrunner"
+        ],
+        "pos": {
+            "NOUN": [
+                "executive producer",
+                "showrunner"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P948",
+        "type": "television_series->image",
+        "labels": [
+            "Wikivoyage banner",
+            "Women in Red banner",
+            "page banner"
+        ],
+        "pos": {
+            "NOUN": [
+                "Wikivoyage banner",
+                "Women in Red banner",
+                "page banner"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1434",
+        "type": "television_series->text",
+        "labels": [
+            "continuity",
+            "describes fictional universe",
+            "describes the fictional universe",
+            "fictional universe described",
+            "set in fictional universe",
+            "takes place in fictional universe",
+            "universe described",
+            "universe featured"
+        ],
+        "pos": {
+            "NOUN": [
+                "continuity"
+            ],
+            "VERB-NOUN": [
+                "describes fictional universe",
+                "describes the fictional universe",
+                "set in fictional universe",
+                "takes place in fictional universe"
+            ],
+            "NOUN-VERB": [
+                "fictional universe described",
+                "universe described",
+                "universe featured"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1877",
+        "type": "television_series->person",
+        "labels": [
+            "after a work by",
+            "artist who inspired this",
+            "copy of a work by",
+            "inspirational artist",
+            "inspiring artist"
+        ],
+        "pos": {
+            "ADP": [
+                "after a work by"
+            ],
+            "NOUN-VERB": [
+                "artist who inspired this"
+            ],
+            "NOUN-ADP": [
+                "copy of a work by"
+            ],
+            "NOUN": [
+                "inspirational artist"
+            ],
+            "VERB-NOUN": [
+                "inspiring artist"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1113",
+        "type": "television_series->count",
+        "labels": [
+            "episode count",
+            "episodes",
+            "number of episodes",
+            "series length"
+        ],
+        "pos": {
+            "NOUN": [
+                "episode count",
+                "episodes",
+                "number of episodes",
+                "series length"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P3092",
+        "type": "television_series->person",
+        "labels": [
+            "film crew member"
+        ],
+        "pos": {
+            "NOUN": [
+                "film crew member"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P942",
+        "type": "television_series->music",
+        "labels": [
+            "theme music",
+            "theme song"
+        ],
+        "pos": {
+            "NOUN": [
+                "theme music",
+                "theme song"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1476",
+        "type": "television_series->text",
+        "labels": [
+            "article",
+            "full title",
+            "headline",
+            "known as",
+            "original title",
+            "title",
+            "titled"
+        ],
+        "pos": {
+            "NOUN": [
+                "article",
+                "full title",
+                "headline",
+                "original title",
+                "title"
+            ],
+            "VERB-SCONJ": [
+                "known as"
+            ],
+            "VERB": [
+                "titled"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1881",
+        "type": "television_series->person",
+        "labels": [
+            "list of characters"
+        ],
+        "pos": {
+            "NOUN": [
+                "list of characters"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P4013",
+        "type": "television_series->id",
+        "labels": [
+            "Giphy username"
+        ],
+        "pos": {
+            "NOUN-VERB": [
+                "Giphy username"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1811",
+        "type": "television_series->text",
+        "labels": [
+            "episode list",
+            "episodes list",
+            "list of episodes"
+        ],
+        "pos": {
+            "NOUN": [
+                "episode list",
+                "episodes list",
+                "list of episodes"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P2002",
+        "type": "television_series->text",
+        "labels": [
+            "Twitter",
+            "Twitter account",
+            "Twitter handle",
+            "Twitter username",
+            "Twitter.com account",
+            "Twitter.com username"
+        ],
+        "pos": {
+            "NOUN": [
+                "Twitter",
+                "Twitter account",
+                "Twitter handle",
+                "Twitter.com account",
+                "Twitter.com username"
+            ],
+            "NOUN-VERB": [
+                "Twitter username"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P7501",
+        "type": "television_series->text",
+        "labels": [
+            "audio system"
+        ],
+        "pos": {
+            "NOUN": [
+                "audio system"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P1753",
+        "type": "television_series->text",
+        "labels": [
+            "category's list",
+            "list equivalent to category",
+            "list related to category"
+        ],
+        "pos": {
+            "NOUN": [
+                "category's list",
+                "list equivalent to category",
+                "list related to category"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P2003",
+        "type": "television_series->text",
+        "labels": [
+            "IG account",
+            "IG username",
+            "Instagram username"
+        ],
+        "pos": {
+            "NOUN": [
+                "IG account"
+            ],
+            "NOUN-ADJ": [
+                "IG username"
+            ],
+            "NOUN-VERB": [
+                "Instagram username"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P2437",
+        "type": "television_series->count",
+        "labels": [
+            "number of seasons",
+            "number of series",
+            "seasons"
+        ],
+        "pos": {
+            "NOUN": [
+                "number of seasons",
+                "number of series",
+                "seasons"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P2061",
+        "type": "television_series->text",
+        "labels": [
+            "aspect ratio",
+            "image aspect ratio",
+            "ratio"
+        ],
+        "pos": {
+            "NOUN": [
+                "aspect ratio",
+                "image aspect ratio",
+                "ratio"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P364",
+        "type": "television_series->language",
+        "labels": [
+            "created on language",
+            "language",
+            "language of the original work",
+            "original language",
+            "original language of film or TV show"
+        ],
+        "pos": {
+            "VERB-NOUN": [
+                "created on language"
+            ],
+            "NOUN": [
+                "language",
+                "language of the original work",
+                "original language",
+                "original language of film or TV show"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P495",
+        "type": "television_series->country",
+        "labels": [
+            "CoO",
+            "comes from",
+            "country of origin",
+            "origin",
+            "originates from",
+            "place of origin"
+        ],
+        "pos": {
+            "NOUN": [
+                "CoO",
+                "country of origin",
+                "origin",
+                "place of origin"
+            ],
+            "VERB-ADP": [
+                "comes from",
+                "originates from"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P444",
+        "type": "television_series->rating",
+        "labels": [
+            "rating",
+            "review rating",
+            "review score"
+        ],
+        "pos": {
+            "NOUN": [
+                "rating",
+                "review rating",
+                "review score"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P162",
+        "type": "television_series->person",
+        "labels": [
+            "film producer",
+            "produced by",
+            "producer",
+            "record producer"
+        ],
+        "pos": {
+            "NOUN": [
+                "film producer",
+                "producer",
+                "record producer"
+            ],
+            "VERB-ADP": [
+                "produced by"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P170",
+        "type": "television_series->person",
+        "labels": [
+            "artist",
+            "created",
+            "created by",
+            "creator",
+            "creators",
+            "made by",
+            "painter",
+            "painters",
+            "sculptor",
+            "sculptors"
+        ],
+        "pos": {
+            "NOUN": [
+                "artist",
+                "creator",
+                "creators",
+                "painter",
+                "painters",
+                "sculptor",
+                "sculptors"
+            ],
+            "VERB": [
+                "created"
+            ],
+            "VERB-ADP": [
+                "created by",
+                "made by"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P166",
+        "type": "television_series->award",
+        "labels": [
+            "award",
+            "award received",
+            "award won",
+            "awarded",
+            "awards",
+            "awards received",
+            "honorary title",
+            "honors",
+            "honours",
+            "medals",
+            "prize awarded",
+            "prize received",
+            "recognition title",
+            "win",
+            "winner of"
+        ],
+        "pos": {
+            "NOUN": [
+                "award",
+                "awards",
+                "honorary title",
+                "honors",
+                "honours",
+                "medals",
+                "recognition title",
+                "win"
+            ],
+            "NOUN-VERB": [
+                "award received",
+                "award won",
+                "awards received",
+                "prize awarded",
+                "prize received"
+            ],
+            "VERB": [
+                "awarded"
+            ],
+            "NOUN-ADP": [
+                "winner of"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P407",
+        "type": "television_series->language",
+        "labels": [
+            "audio language",
+            "available in",
+            "broadcasting language",
+            "language",
+            "language of URL",
+            "language of name",
+            "language of spoken text",
+            "language of the name",
+            "language of the reference",
+            "language of website",
+            "language of work",
+            "language of work or name",
+            "named in language",
+            "used language"
+        ],
+        "pos": {
+            "NOUN": [
+                "audio language",
+                "broadcasting language",
+                "language",
+                "language of URL",
+                "language of name",
+                "language of spoken text",
+                "language of the name",
+                "language of the reference",
+                "language of website",
+                "language of work",
+                "language of work or name"
+            ],
+            "ADJ-ADP": [
+                "available in"
+            ],
+            "VERB-NOUN": [
+                "named in language",
+                "used language"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P373",
+        "type": "television_series->text",
+        "labels": [
+            "Commons category",
+            "category Commons",
+            "commonscat"
+        ],
+        "pos": {
+            "NOUN": [
+                "Commons category",
+                "category Commons",
+                "commonscat"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P449",
+        "type": "television_series->organization",
+        "labels": [
+            "TV channel",
+            "broadcast on",
+            "channel",
+            "first air channel",
+            "network",
+            "original air channel",
+            "original broadcaster",
+            "original channel",
+            "original network",
+            "radio network",
+            "radio station",
+            "television channel"
+        ],
+        "pos": {
+            "NOUN": [
+                "TV channel",
+                "channel",
+                "first air channel",
+                "network",
+                "original air channel",
+                "original broadcaster",
+                "original channel",
+                "original network",
+                "radio network",
+                "radio station",
+                "television channel"
+            ],
+            "VERB-ADP": [
+                "broadcast on"
+            ]
+        }
+    },
+    {
+        "prop": "http://www.wikidata.org/entity/P272",
+        "type": "television_series->organization",
+        "labels": [
+            "ballet company",
+            "broadcasting company",
+            "film studio",
+            "motion picture studio",
+            "movie studio",
+            "production company",
+            "production house",
+            "studio",
+            "theater company",
+            "theatre company",
+            "theatrical troupe"
+        ],
+        "pos": {
+            "NOUN": [
+                "ballet company",
+                "broadcasting company",
+                "film studio",
+                "motion picture studio",
+                "movie studio",
+                "production company",
+                "production house",
+                "studio",
+                "theater company",
+                "theatre company",
+                "theatrical troupe"
+            ]
+        }
+    }
+]

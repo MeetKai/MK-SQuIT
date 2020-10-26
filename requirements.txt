@@ -1,0 +1,12 @@
+requests
+tqdm
+typer
+pandas
+nltk
+networkx
+spacy
+scikit-learn
+easy-rouge
+rapidfuzz
+tensorflow
+tensorflow-hub
