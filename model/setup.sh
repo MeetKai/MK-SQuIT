@@ -1,9 +1,9 @@
 #!/bin/bash
 # Copyright (c) 2020 MeetKai Inc. All rights reserved.
 
-# Get latest version of NeMo.
+# Install NeMo.
 pip install Cython
-python -m pip install git+https://github.com/NVIDIA/NeMo.git@main#egg=nemo_toolkit[nlp]
+pip install nemo_toolkit[nlp]==1.0.0b3
 
 # Download scripts.
 mkdir conf
